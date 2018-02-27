@@ -1,5 +1,1 @@
-This for testing
-
-.adding new feature
-
-from develop branch
+This for testing.
